@@ -9,23 +9,19 @@ Tested up to: 4.2.2
 Stable tag: 1.0
 
 
-This plugin allows you to create competition for all logged users.
+This plugin allows you create competition based on time for all logged users.
 
 == Description ==
-Encryption contest adds your website totaly new feature, what WP normally doesn't support. Without this plugin you can use only 3th-party aplications with advertising on you website.
-This plugin offer you way to create your own competition system. All evaluation doing your website and all data are saved on your website. And that's not all!
-
-You can prepare task queue for week, month or year beforehand. How do you want. Once you prepare task and then you will not care about that. All is doing automatically. 
-Any time you can change assigment, if it not seem good. It's easy and even a child can handle it. 
+Plugin contains a complete system for evaluating contests. It allows you create tasks queue for future days (such as task-1 for first week, task-2 for weekend etc.). 
+Tasks changing is based on date. Once you set parameters and you no longer have to worry about anything.  All is doing automatically. 
 
 When one task expirate, next task is followed and summary email is sended to you with results. You can manualy confirm user answer, if you think it's right. No problem, only hit one button.
 
 = Creating tasks =
 It's absolutely easy. 
-
 1. Go to admin menu on page Encryption contest and hit create new task. 
 1. Fill expirate date (from - to) with right solution, what user should answer. 
-1. Choose code from checkbox and save it all.
+1. Choose code from checkbox and save it. So easy.
 
 = Interface =
 First one is front-end created by shortcode `[encryption-contest]`. You can place it on any page and user can start it using immediately. There is set one default Task for your inspiration, how does it works.
@@ -38,7 +34,6 @@ and plugin will compare it with user answer. If text from admin is similar with 
 
 = Codes to use =
 Plugin consists of eight most used codes in general public. If you create your task with this prepared codes, many people it can encrypt. Predefined codes are:
-
 * Move letter about X in alphabet
 * Text backwards with random gaps
 * Every second letter
@@ -52,7 +47,6 @@ Of course this plugin contain way to insert your own cyphre. It can be text or j
 
 = Multilangual =
 This plugin is fully prepared for translation. Actually are supported languages: 
-
 * English
 * Czech
 
@@ -60,7 +54,6 @@ This plugin is fully prepared for translation. Actually are supported languages:
 == Installation ==
 
 You can install from within WordPress using the Plugin/Add New feature, or if you wish to manually install:
-
 1. Download the plugin.
 1. Upload the entire `encryption-contest` directory to your plugins folder 
 1. Activate the plugin from the plugin page in your WordPress Dashboard
@@ -68,7 +61,6 @@ You can install from within WordPress using the Plugin/Add New feature, or if yo
 
 ### Admin menu page
 Sometimes there is problem that after first activation will not be displaying page 'Encryption contest' in admin menu. You can fix it this way:
-
 1. Options -> Encryption contest
 1. Click on link in first sentence
 1. Done, problem is fixed forewer!
@@ -113,9 +105,9 @@ Very nice! The best way how you can help himself and other plugin users is send 
 7. Email results of ended task.
 
 == Changelog ==
-= 1.0.1 =
+= 1.0 =
 * Added translate folder, marked strings for translate, added czech language.
 
 == Upgrade Notice ==
-= 1.0.1 =
+= 1.0 =
 * Added translate support.
