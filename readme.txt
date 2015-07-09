@@ -13,12 +13,14 @@ This plugin allows you create competition based on time for all logged users.
 
 == Description ==
 Plugin contains a complete system for evaluating contests. It allows you create tasks queue for future days (such as task-1 for first week, task-2 for weekend etc.). 
+
 Tasks changing is based on date. Once you set parameters and you no longer have to worry about anything.  All is doing automatically. 
 
 When one task expirate, next task is followed and summary email is sended to you with results. You can manualy confirm user answer, if you think it's right. No problem, only hit one button.
 
 = Creating tasks =
 It's absolutely easy. 
+
 1. Go to admin menu on page Encryption contest and hit create new task. 
 1. Fill expirate date (from - to) with right solution, what user should answer. 
 1. Choose code from checkbox and save it. So easy.
@@ -34,6 +36,7 @@ and plugin will compare it with user answer. If text from admin is similar with 
 
 = Codes to use =
 Plugin consists of eight most used codes in general public. If you create your task with this prepared codes, many people it can encrypt. Predefined codes are:
+
 * Move letter about X in alphabet
 * Text backwards with random gaps
 * Every second letter
@@ -47,6 +50,7 @@ Of course this plugin contain way to insert your own cyphre. It can be text or j
 
 = Multilangual =
 This plugin is fully prepared for translation. Actually are supported languages: 
+
 * English
 * Czech
 
@@ -54,6 +58,7 @@ This plugin is fully prepared for translation. Actually are supported languages:
 == Installation ==
 
 You can install from within WordPress using the Plugin/Add New feature, or if you wish to manually install:
+
 1. Download the plugin.
 1. Upload the entire `encryption-contest` directory to your plugins folder 
 1. Activate the plugin from the plugin page in your WordPress Dashboard
@@ -61,6 +66,7 @@ You can install from within WordPress using the Plugin/Add New feature, or if yo
 
 ### Admin menu page
 Sometimes there is problem that after first activation will not be displaying page 'Encryption contest' in admin menu. You can fix it this way:
+
 1. Options -> Encryption contest
 1. Click on link in first sentence
 1. Done, problem is fixed forewer!
@@ -73,10 +79,6 @@ Sometimes there is problem that after first activation will not be displaying pa
 
 = How long to future can I plan Tasks? =
 There is no restriction. You can plan how far you want.
-
-= What about codes used to hide right solution? =
-Plugin is mainly programmed for use to translate to Morse code, snail, poland cross etc. but author was thinking to others. Yes, plugin is universal. Author added there
-way, how to insert own assignment and doesn't matter if it is text or picture. The only restriction is that the answer must be same as insered right solution.
 
 = How can I turn off sending emails? =
 Just visit Options->Encryption-contest and uncheck Sending emails.
