@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 This plugin allows you create competition based on time for all logged users.
@@ -23,7 +23,7 @@ It's absolutely easy.
 
 1. Go to admin menu on page Encryption contest and hit create new task. 
 1. Fill expirate date (from - to) with right solution, what user should answer. 
-1. Choose code from checkbox and save it. So easy.
+1. Choose code from checkbox and save it.
 
 = Interface =
 First one is front-end created by shortcode `[encryption-contest]`. You can place it on any page and user can start it using immediately. There is set one default Task for your inspiration, how does it works.
@@ -102,14 +102,24 @@ Very nice! The best way how you can help himself and other plugin users is send 
 2. Inserting answer
 3. Right answer - you can insert your own image
 4. Wrong answer - user can compare his answer with asignment himself
-5. Options page - generally plugin settings
-6. Admin menu page for creating tasks
+5. Admin menu page for creating tasks
+6. Options page - generally plugin settings
 7. Email results of ended task.
 
 == Changelog ==
+= 1.1 =
+* Added option to change heading HTML tag.
+* Some files changed location to folder /includes/.
+* Better optimalization for translate.
+* Fixed some strings where gaps was missing between words.
+
 = 1.0 =
 * Added translate folder, marked strings for translate, added czech language.
 
 == Upgrade Notice ==
+= 1.1 =
+* Recommended update. Added support for changing header tag (<h1>, <h2>...) in frontend. 
+* Better translate optimalization.
+
 = 1.0 =
 * Added translate support.

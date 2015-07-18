@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: encrypt\n"
-"POT-Creation-Date: 2015-07-02 19:49+0100\n"
-"PO-Revision-Date: 2015-07-02 19:49+0100\n"
+"POT-Creation-Date: 2015-07-18 19:37+0100\n"
+"PO-Revision-Date: 2015-07-18 19:39+0100\n"
 "Last-Translator: Marek Vach <mvach@email.cz>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -81,8 +81,8 @@ msgstr "Vybrat"
 
 # Don't forget to do escape in the end of sentence
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:113
-msgid "The recommended start is in "
-msgstr "Doporučený začátek je "
+msgid "The recommended start is in"
+msgstr "Doporučený začátek je"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
 msgid "Own text code"
@@ -125,7 +125,7 @@ msgid "Reverse Morse code"
 msgstr "Obrácená morseovka"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:175
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:108
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:127
 msgid "Save Changes"
 msgstr "Uložit změny"
 
@@ -158,8 +158,8 @@ msgid "or edit already existing task"
 msgstr "nebo upravit existující úkol"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:322
-msgid "Tasks would continue one after another. "
-msgstr "Úkoly by na sebe měly navazovat. "
+msgid "Task would continue one after another."
+msgstr "Úkoly by na sebe měly navazovat."
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:327
 msgid "Validity time:"
@@ -170,7 +170,6 @@ msgid "Right solution:"
 msgstr "Správná odpověď:"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:334
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:322
 msgid "You can use all letters of english, commas and points."
 msgstr "Používej plnohodnotnou češtinu, háčky a čárky."
 
@@ -254,48 +253,52 @@ msgstr "Návštěvník"
 msgid "Restore Default settings"
 msgstr "Obnovit výchozí nastavení"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
 msgid ""
 "Plugin is used by inserting shortcode <b>[encryption-contest]</b> anywhere "
 "on page. General settings are set right here. You can create tasks for all "
-"users "
+"users"
 msgstr ""
 "Plugin se používá vložením shortcode <b>[encryption-contest]</b> kamkoliv na "
-"stránku. Nastavení pluginu je umístěno zde. Samotné úlohy můžeš vytvořit "
+"stránku. Nastavení pluginu je umístěno zde. Samotné úlohy můžeš vytvořit"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
 msgid "in main menu"
 msgstr "v hlavním menu"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:76
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:91
 msgid "Show list of preview tasks:"
 msgstr "Zobrazovat seznam předchozích úloh:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:95
 msgid "Show countdown:"
 msgstr "Zobrazovat odpočet:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:99
 msgid "Show successful users:"
 msgstr "Zobrazovat úspěšné řešitele:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:88
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:103
 msgid "Send email with answers:"
 msgstr "Posílat souhrné emaily:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:92
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:107
 msgid "Email adress:"
 msgstr "Emailová adresa:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:111
 msgid "Link to page with shortcode:"
 msgstr "Odkaz na stránku, kde se zobrazuje shortcode:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:115
 msgid "Link to picture displayed after right answer:"
 msgstr "Odkaz na obrázek zobrazující se po zadání správné odpovědi:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:104
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:119
+msgid "HTML tag title for shortcode:"
+msgstr "HTML tag pro nadpisy v shortcode:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:123
 msgid "Minimum capability for creating tasks:"
 msgstr "Minimální oprávnění pro vytváření úloh:"
 
@@ -304,20 +307,20 @@ msgid " results"
 msgstr " - výsledky"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:97
-msgid "Dear user,<br>time for displaying task "
-msgstr "Zdravím,<br>platnost úlohy číslo "
+msgid "Dear user,<br>time for displaying task"
+msgstr "Zdravím,<br>platnost úlohy číslo"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:97
-msgid " has already ended. "
-msgstr " právě skončila. "
+msgid " has already ended."
+msgstr " právě skončila."
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:99
-msgid "From this moment it is displaying task "
-msgstr "V řadě nastoupila úloha "
+msgid "From this moment it is displaying task"
+msgstr "V řadě nastoupila úloha"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:99
-msgid ". It will be displaying to midnight "
-msgstr ", která se bude zobrazovat do půlnoci "
+msgid ". It will be displaying to midnight"
+msgstr ", která se bude zobrazovat do půlnoci"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:101
 msgid ""
@@ -328,8 +331,8 @@ msgstr ""
 "nebo je mezi zadáními delší prodleva jak 1 den."
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:102
-msgid "Here are results of ended task "
-msgstr "Dále posílám výsledky výsledky skončeného úkolu "
+msgid "Here are results of ended task"
+msgstr "Dále posílám výsledky výsledky skončeného úkolu"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:103
 msgid "Correct answer"
@@ -344,16 +347,16 @@ msgid "Correct answer was:"
 msgstr "Správná odpověď byla:"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
-msgid "Answers can be accepted in "
-msgstr "Odpovědi můžete schválit v "
+msgid "Answers can be accepted in"
+msgstr "Odpovědi můžete schválit v"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
 msgid "administration interface"
 msgstr "administraci stránek"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:106
-msgid "This email has been automaticaly generated by site "
-msgstr "Email byl automaticky generován stránkou "
+msgid "This email has been automaticaly generated by site"
+msgstr "Email byl automaticky generován stránkou"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:107
 msgid "Have a nice day."
@@ -363,18 +366,18 @@ msgstr "Přeji hezký den."
 msgid "Task will expirate in"
 msgstr "Tato šifra skončí za"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:324
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:325
 msgid ""
 "Time to do the task has expired. You can solve cypher only out of "
 "competition."
 msgstr ""
 "Čas na vyluštění šifry vypršel. Šifru si můžeš vyluštit už jen mimo soutěž."
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:327
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:328
 msgid "Your answer is absolutely right. Good job!"
 msgstr "Šifru máš vyluštěnou zcela správně. Dobrá práce!"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:330
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:331
 msgid ""
 "In shelled cipher is a mistake! Just outside the game try to find where is "
 "mistake. <br>Your answer:"
@@ -382,48 +385,48 @@ msgstr ""
 "Ve vyluštěné šifře je chyba! Už jen mimo hru si zkus najít, kde máš chybu. "
 "<br>Tvoje zadaná odpověď: "
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:332
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:333
 msgid "If your answer seems written properly, contact us via email."
 msgstr "Pokud se ti odpověď zdá napsaná správně, kontaktuj nás emailem."
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:340
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:341
 msgid "Submit"
 msgstr "Odeslat"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:342
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:343
 msgid "Try to solve it,"
 msgstr "Zkus to vyluštit,"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:342
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:343
 msgid "login!"
 msgstr "přihlaš se!"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:390
-msgid "Preview of task number "
-msgstr "Náhled úlohy číslo "
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:402
+msgid "Preview of task number"
+msgstr "Náhled úlohy číslo"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:398
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:410
 msgid ""
 "List of published tasks. You can browse previous tasks and get inspirate."
 msgstr "Vyber šifru, o kterou se zajímáš:"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:408
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:420
 msgid "Assignment"
 msgstr "Zadání šifry"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:416
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:428
 msgid "Decoded result"
 msgstr "Vyluštěný výsledek"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:420
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:432
 msgid "Place for notes"
 msgstr "Místo na poznámky"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:427
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:439
 msgid "Successfully resolved"
 msgstr "Správně vyluštili"
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:432
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:444
 msgid "Sorry, currently there is no cyphre for answering."
 msgstr "Momentálně není zadaná úloha, která by se dala luštit."
 

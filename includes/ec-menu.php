@@ -110,7 +110,7 @@ class EcMenu {
       if ($day_before > 0) {
           $recoment_date = $classMenu->plusOneDay($data['to' . $day_before]);
           $recoment_date = $classMenu->transformDate($recoment_date, false);
-          $text = __('The recommended start is in ', 'encrypt') .$recoment_date;
+          $text = __('The recommended start is in', 'encrypt') .' '.$recoment_date;
           return $text;      
       }
       else
@@ -319,7 +319,7 @@ class EcMenu {
           <br>
       <?php if ( $actual_task > 0 ) {?>
           <h2><?php echo __('Task ', 'encrypt') ?><?php echo ($actual_task); ?></h2>
-          <p><?php echo __('Tasks would continue one after another. ', 'encrypt') ?><?php echo ($classMenu->recomentDate($actual_task)); ?></p>
+          <p><?php echo __('Task would continue one after another.', 'encrypt') . ' ' ?><?php echo ($classMenu->recomentDate($actual_task)); ?></p>
           <form method="post" action="">
           <table class="form-table">
               <tr>

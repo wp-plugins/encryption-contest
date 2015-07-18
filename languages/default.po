@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: encrypt\n"
-"POT-Creation-Date: 2015-07-02 19:48+0100\n"
-"PO-Revision-Date: 2015-07-02 19:48+0100\n"
+"POT-Creation-Date: 2015-07-18 19:36+0100\n"
+"PO-Revision-Date: 2015-07-18 19:37+0100\n"
 "Last-Translator: Marek Vach <mvach@email.cz>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgid "Choose"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:113
-msgid "The recommended start is in "
+msgid "The recommended start is in"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
@@ -124,7 +124,7 @@ msgid "Reverse Morse code"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:175
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:108
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:127
 msgid "Save Changes"
 msgstr ""
 
@@ -157,7 +157,7 @@ msgid "or edit already existing task"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:322
-msgid "Tasks would continue one after another. "
+msgid "Task would continue one after another."
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:327
@@ -169,7 +169,6 @@ msgid "Right solution:"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:334
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:322
 msgid "You can use all letters of english, commas and points."
 msgstr ""
 
@@ -251,46 +250,50 @@ msgstr ""
 msgid "Restore Default settings"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
 msgid ""
 "Plugin is used by inserting shortcode <b>[encryption-contest]</b> anywhere "
 "on page. General settings are set right here. You can create tasks for all "
-"users "
-msgstr ""
-
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:69
-msgid "in main menu"
-msgstr ""
-
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:76
-msgid "Show list of preview tasks:"
-msgstr ""
-
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:80
-msgid "Show countdown:"
+"users"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
+msgid "in main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:91
+msgid "Show list of preview tasks:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:95
+msgid "Show countdown:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:99
 msgid "Show successful users:"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:88
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:103
 msgid "Send email with answers:"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:92
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:107
 msgid "Email adress:"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:111
 msgid "Link to page with shortcode:"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:115
 msgid "Link to picture displayed after right answer:"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:104
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:119
+msgid "HTML tag title for shortcode:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:123
 msgid "Minimum capability for creating tasks:"
 msgstr ""
 
@@ -299,19 +302,19 @@ msgid " results"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:97
-msgid "Dear user,<br>time for displaying task "
+msgid "Dear user,<br>time for displaying task"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:97
-msgid " has already ended. "
+msgid " has already ended."
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:99
-msgid "From this moment it is displaying task "
+msgid "From this moment it is displaying task"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:99
-msgid ". It will be displaying to midnight "
+msgid ". It will be displaying to midnight"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:101
@@ -321,7 +324,7 @@ msgid ""
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:102
-msgid "Here are results of ended task "
+msgid "Here are results of ended task"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:103
@@ -337,7 +340,7 @@ msgid "Correct answer was:"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
-msgid "Answers can be accepted in "
+msgid "Answers can be accepted in"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
@@ -345,7 +348,7 @@ msgid "administration interface"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:106
-msgid "This email has been automaticaly generated by site "
+msgid "This email has been automaticaly generated by site"
 msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:107
@@ -356,63 +359,63 @@ msgstr ""
 msgid "Task will expirate in"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:324
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:325
 msgid ""
 "Time to do the task has expired. You can solve cypher only out of "
 "competition."
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:327
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:328
 msgid "Your answer is absolutely right. Good job!"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:330
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:331
 msgid ""
 "In shelled cipher is a mistake! Just outside the game try to find where is "
 "mistake. <br>Your answer:"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:332
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:333
 msgid "If your answer seems written properly, contact us via email."
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:340
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:341
 msgid "Submit"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:342
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:343
 msgid "Try to solve it,"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:342
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:343
 msgid "login!"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:390
-msgid "Preview of task number "
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:402
+msgid "Preview of task number"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:398
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:410
 msgid ""
 "List of published tasks. You can browse previous tasks and get inspirate."
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:408
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:420
 msgid "Assignment"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:416
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:428
 msgid "Decoded result"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:420
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:432
 msgid "Place for notes"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:427
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:439
 msgid "Successfully resolved"
 msgstr ""
 
-#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:432
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:444
 msgid "Sorry, currently there is no cyphre for answering."
 msgstr ""
