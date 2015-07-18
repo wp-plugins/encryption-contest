@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: encrypt\n"
+"POT-Creation-Date: 2015-07-18 19:36+0100\n"
+"PO-Revision-Date: 2015-07-18 19:37+0100\n"
+"Last-Translator: Marek Vach <mvach@email.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\encryption-contest\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:5
+msgid "year"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:7
+msgid "years"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:9
+msgid "day"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:15
+msgid "days"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:17
+msgid "hour"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:19
+msgid "hours"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:21
+msgid "minute"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:23
+msgid "minutes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:25
+msgid "second"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:27
+msgid "seconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:313
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:10
+msgid "Encryption contest"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:79
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:321
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:94
+msgid "Task "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:82
+msgid "Choose"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:113
+msgid "The recommended start is in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
+msgid "Own text code"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
+msgid "Own picture code"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
+msgid "Move letter about X in alphabet"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
+msgid "Text backwards with random gaps"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:126
+msgid "Every second letter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:127
+msgid "Substitution behind the numbers <small>Z = 26</small>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:127
+msgid "Snail from center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:127
+msgid "Great poland cross"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:127
+msgid "Morse code"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:127
+msgid "Reverse Morse code"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:175
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:127
+msgid "Save Changes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:176
+msgid "Preview"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:177
+msgid "At first Save, after that Preview."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:260
+msgid "Acept answer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:261
+msgid "False"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:264
+msgid "True"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:315
+msgid "Create new task"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:316
+msgid "or edit already existing task"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:322
+msgid "Task would continue one after another."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:327
+msgid "Validity time:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:333
+msgid "Right solution:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:334
+msgid "You can use all letters of english, commas and points."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:338
+msgid "Use code:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:339
+msgid ""
+"After save changes will be displayed field for text code / picture code / "
+"move letter by X."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:344
+msgid "Own text code:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:351
+msgid "Link to picture:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:357
+msgid "Move for:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:358
+msgid "letters"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:365
+msgid "List of answers"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:366
+msgid "Results are automatically sent to email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:366
+msgid "entered in settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:369
+msgid "Status"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:369
+msgid "Nickname"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:369
+msgid "Answered text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:369
+msgid "Button"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:33
+msgid "Administrator"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:34
+msgid "Editor"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:35
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:36
+msgid "Contributor"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:37
+msgid "Subscriper"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:48
+msgid "Restore Default settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
+msgid ""
+"Plugin is used by inserting shortcode <b>[encryption-contest]</b> anywhere "
+"on page. General settings are set right here. You can create tasks for all "
+"users"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:84
+msgid "in main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:91
+msgid "Show list of preview tasks:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:95
+msgid "Show countdown:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:99
+msgid "Show successful users:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:103
+msgid "Send email with answers:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:107
+msgid "Email adress:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:111
+msgid "Link to page with shortcode:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:115
+msgid "Link to picture displayed after right answer:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:119
+msgid "HTML tag title for shortcode:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-options.php:123
+msgid "Minimum capability for creating tasks:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:94
+msgid " results"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:97
+msgid "Dear user,<br>time for displaying task"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:97
+msgid " has already ended."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:99
+msgid "From this moment it is displaying task"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:99
+msgid ". It will be displaying to midnight"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:101
+msgid ""
+"On website is not displaying any futher task from this moment. Task is not "
+"set or delay between tasks is longer than 1 day."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:102
+msgid "Here are results of ended task"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:103
+msgid "Correct answer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:104
+msgid "Wrong answer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
+msgid "Correct answer was:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
+msgid "Answers can be accepted in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:105
+msgid "administration interface"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:106
+msgid "This email has been automaticaly generated by site"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:107
+msgid "Have a nice day."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:191
+msgid "Task will expirate in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:325
+msgid ""
+"Time to do the task has expired. You can solve cypher only out of "
+"competition."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:328
+msgid "Your answer is absolutely right. Good job!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:331
+msgid ""
+"In shelled cipher is a mistake! Just outside the game try to find where is "
+"mistake. <br>Your answer:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:333
+msgid "If your answer seems written properly, contact us via email."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:341
+msgid "Submit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:343
+msgid "Try to solve it,"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:343
+msgid "login!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:402
+msgid "Preview of task number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:410
+msgid ""
+"List of published tasks. You can browse previous tasks and get inspirate."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:420
+msgid "Assignment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:428
+msgid "Decoded result"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:432
+msgid "Place for notes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:439
+msgid "Successfully resolved"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/encryption-contest.php:444
+msgid "Sorry, currently there is no cyphre for answering."
+msgstr ""
