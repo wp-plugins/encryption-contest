@@ -381,7 +381,7 @@ class EncryptionContest {
   public function titleTag() {
       $settings  = get_option('EcSettings');
       $number    = $settings['titleTag'];     
-      if ($number == '0')                 // Added feature in version 1.1, if number isn't defined in settings, it will use default number 3.
+      if (!$number)                 // Added feature in version 1.1, if number isn't defined in settings, it will use default number 3.
           $number = '3';
       
       $tag_open  = '<h'.$number.'>';
