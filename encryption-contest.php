@@ -380,7 +380,10 @@ class EncryptionContest {
   // Construct HTML tag for headers in frontend <h1></h1> - <h6></h6>
   public function titleTag() {
       $settings  = get_option('EcSettings');
-      $number    = $settings['titleTag'];
+      $number    = $settings['titleTag'];     
+      if ($number == '0')                 // Added feature in version 1.1, if number isn't defined in settings, it will use default number 3.
+          $number = '3';
+      
       $tag_open  = '<h'.$number.'>';
       $tag_close = '</h'.$number.'>'; 
   
