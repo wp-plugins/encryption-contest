@@ -1,11 +1,11 @@
-<?php
+﻿<?php
 /*
     Plugin Name: Encryption contest
     Description: You can create list of tasks, what will be show to logged users in time what you set. So you can make for example 3 tasks for future 3 weeks. Every week will be displayed one task. Plugin decide if user answer is OK and if yes, it displays user avatar under task. On the end of task (expiration) plugin will send you email with solve users - You can publish it, add points to user accounts or do whatever else. 
     Author: Marek 'ShippeR' Vach
     License: GNU General Public License v2 or later
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
-    Version: 1.1
+    Version: 1.1.1
     */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 add_shortcode( 'encryption-contest', array('EncryptionContest', 'displayShortcode') );

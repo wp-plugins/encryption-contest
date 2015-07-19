@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: encrypt\n"
 "POT-Creation-Date: 2015-07-18 19:37+0100\n"
-"PO-Revision-Date: 2015-07-18 19:39+0100\n"
+"PO-Revision-Date: 2015-07-19 22:14+0100\n"
 "Last-Translator: Marek Vach <mvach@email.cz>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -17,51 +17,51 @@ msgstr ""
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:5
 msgid "year"
-msgstr "rok"
+msgstr "r"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:6
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:7
 msgid "years"
-msgstr "roků"
+msgstr "r"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:9
 msgid "day"
-msgstr "den"
+msgstr "d"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:10
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:11
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:14
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:15
 msgid "days"
-msgstr "dny"
+msgstr "d"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:13
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:17
 msgid "hour"
-msgstr "hodina"
+msgstr "hod"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:18
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:19
 msgid "hours"
-msgstr "hodin"
+msgstr "hod"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:21
 msgid "minute"
-msgstr "minuta"
+msgstr "min"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:22
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:23
 msgid "minutes"
-msgstr "minut"
+msgstr "min"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:25
 msgid "second"
-msgstr "sekunda"
+msgstr "sek"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:26
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/countdown.php:27
 msgid "seconds"
-msgstr "sekund"
+msgstr "sek"
 
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:16
 #: C:\xampp\htdocs\wordpress\wp-content\plugins\encryption-contest/ec-menu.php:313

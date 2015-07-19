@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 
 This plugin allows you create competition based on time for all logged users.
@@ -107,6 +107,9 @@ Very nice! The best way how you can help himself and other plugin users is send 
 7. Email results of ended task.
 
 == Changelog ==
+= 1.1.1 =
+* Edited declension of czech countdown words. Now it's displaying like 1 d 10 min 8 sek.
+
 = 1.1 =
 * Added option to change heading HTML tag.
 * Some files changed location to folder /includes/.
@@ -117,6 +120,9 @@ Very nice! The best way how you can help himself and other plugin users is send 
 * Added translate folder, marked strings for translate, added czech language.
 
 == Upgrade Notice ==
+= 1.1.1 =
+* Edited declension of czech countdown words. Now it's displaying like 1 d 10 min 8 sek.
+
 = 1.1 =
 * Recommended update. Added support for changing header tag (<h1>, <h2>...) in frontend. 
 * Better translate optimalization.
